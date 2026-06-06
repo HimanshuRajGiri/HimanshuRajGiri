@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Himanshu Raj Giri 👋
 
-<!--
-**HimanshuRajGiri/HimanshuRajGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech CSE (3rd Year), Data Science specialization
+- 🤖 Aspiring Robotics Engineer | ML Enthusiast
+- 🌱 Currently building projects in React, Flutter, CNN models
+- 💬 Ask me about Python, Java, GitHub workflows
 
-Here are some ideas to get you started:
+## Socials
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/HimanshuRajGiri) | [Portfolio](https://yourportfolio.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, Java, Dart, JavaScript
+- Frameworks: React.js, Next.js, Flutter, DotNetCore
+- Tools: Power BI, Streamlit, Git, Docker
+
+## GitHub Stats
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuRajGiri&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRajGiri&layout=compact&theme=radical)
