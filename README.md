@@ -10,14 +10,8 @@
 
 </div>
 
-## 🧬 About Me
-🎓 Pursuing **B.Tech in Computer Science (Data Science)** at Shobhit Institute of Engineering & Technology, Meerut — CGPA **7.50/10**  
-🤖 Passionate about building **AI-powered solutions** — developed an **AI Career Recommender (89% accuracy)** and a **Sales Forecasting system**  
-🧠 Actively collaborating on **open-source ML/AI projects** and **data-driven applications**  
-📊 Skilled in **Python, Scikit-learn, Pandas, SQL, Power BI, Machine Learning & Data Analysis**  
-🌱 Currently exploring **Deep Learning, NLP, Feature Engineering & Advanced SQL optimization**  
-⚡ Fun fact: Solved **65+ DSA problems** on LeetCode while balancing ML projects 🚀
-
+🚀## 🧬 About Me
+I am pursuing a B.Tech in Computer Science with specialization in Data Science at Shobhit Institute of Engineering & Technology, Meerut, with a CGPA of 7.50/10. Passionate about building AI‑powered solutions. My interests lie in machine learning, data analytics, and AI applications, and I actively collaborate on open‑source ML/AI projects. Skilled in Python, Scikit‑learn, Pandas, SQL, Power BI, and data analysis, I am currently expanding my expertise in Deep Learning, NLP, Feature Engineering, and Advanced SQL optimization. Alongside my academic journey, I have solved 65+ DSA problems on LeetCode, reflecting my strong foundation in algorithms and problem‑solving.
 
 ---
 
