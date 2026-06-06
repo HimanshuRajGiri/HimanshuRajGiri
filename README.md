@@ -11,16 +11,16 @@
 </div>
 
 🚀## 🧬 About Me
-I am pursuing a B.Tech in Computer Science with specialization in Data Science at Shobhit Institute of Engineering & Technology, Meerut, with a CGPA of 7.50/10. Passionate about building AI‑powered solutions. My interests lie in machine learning, data analytics, and AI applications, and I actively collaborate on open‑source ML/AI projects. Skilled in Python, Scikit‑learn, Pandas, SQL, Power BI, and data analysis, I am currently expanding my expertise in Deep Learning, NLP, Feature Engineering, and Advanced SQL optimization. Alongside my academic journey, I have solved 65+ DSA problems on LeetCode, reflecting my strong foundation in algorithms and problem‑solving.
+I am pursuing a B.Tech in Computer Science with specialization in Data Science at Shobhit Institute of Engineering & Technology, Meerut, with a CGPA of 7.70/10. Passionate about building AI‑powered solutions. My interests lie in machine learning, data analytics, and AI applications, and I actively collaborate on open‑source ML/AI projects. Skilled in Python, Scikit‑learn, Pandas, SQL, Power BI, and data analysis, I am currently expanding my expertise in Deep Learning, NLP, Feature Engineering, and Advanced SQL optimization. Alongside my academic journey, I have solved 65+ DSA problems on LeetCode, reflecting my strong foundation in algorithms and problem‑solving.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-raj-9b4116333)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuRajGiri)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portlifi.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrgiri2004@gmail.com)
 
 ---
