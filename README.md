@@ -66,50 +66,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
-
-## 🚀 Projects
-
-### 🤖 AI-Powered Career Recommendation System &nbsp; `Sep – Dec 2025`
-> **Tech:** Python · SQL · Scikit-learn · Pandas · NumPy · HTML/CSS/JS
-
-- 🎯 Built an AI system recommending career paths based on skills, interests & academic background
-- 📈 Trained ML models achieving **89% prediction accuracy** for personalized recommendations
-- 💡 Delivered data-driven insights to support informed career planning & decision-making
-
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuRajGiri)
-
 ---
-
-### 📊 Business Sales Forecasting Dashboard &nbsp; `Jan – Feb 2026`
-> **Tech:** Python · SQL · Scikit-learn · Pandas · NumPy · HTML/CSS/JS
-
-- 📉 Reduced forecast error by **15%** using 5 years of historical sales data
-- 🔍 Applied ML techniques to improve forecasting accuracy for business planning
-- 📊 Created interactive dashboards for inventory management & business intelligence
-
-[![View Project](https://img.shields.io/badge/View%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuRajGiri)
-
----
-
-## 🏆 Achievements & Hackathons
-
-| 🏅 Achievement | 📍 Details |
-|---|---|
-| 🥇 **Shubh Shastra AI Hackathon** | Led 4-member team · 24hr AI prototype · Shubharti University |
-| ⚡ **AI Nexus Hackathon** | Participated · Chandigarh University |
-| 💻 **LeetCode 65+ Problems** | Data Structures & Algorithms · Consistent problem-solving |
-
----
-
-## 📜 Certifications
-
-- 🎓 **Data Science, ML, Deep Learning & NLP Bootcamp** — *Udemy*
-- 📊 **Data Analyst Bootcamp (Basic to Advanced)** — *Udemy*
-- 🧩 **Mastering DSA using C & C++** — *Udemy*
-- 📋 **Advanced Excel Certification** *(30-day course)*
-
----
-
 ## 📊 GitHub Activities & Stats
 
 <div align="center">
